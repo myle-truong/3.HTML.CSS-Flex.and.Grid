@@ -21,16 +21,6 @@
     justify-content: space-between;
 }
 
-
-/* .section-1 {
-    display: grid;
-    grid-template-columns: 1fr 0.6fr 0.7fr 1fr;
-    column-gap: 25px;
-    align-items: top center;
-    padding-bottom: 2em;
-    padding-top: 3em;
-} */
-
 .container2 {
     display: flex;
     width: 100%;
